@@ -1,0 +1,14 @@
+data/*/
+
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# notebooks checkpoints
+.ipynb_checkpoints/
+
+# mac system file
+.DS_Store
+
